@@ -1,0 +1,16 @@
+body{
+    color: darkblue;
+    background-color: lightgrey;
+    font-family: Inter, "Times New Roman", "Impact";
+    line-height: 2;
+    font-style: Italic;
+    font-size: 38px;
+}
+
+img{
+    border: 5px solid green;
+}
+
+li{
+    border: solid 25px black;
+}
